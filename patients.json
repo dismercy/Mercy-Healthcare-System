@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "dob": "1990-04-12",
+    "address": "123 Ocean Drive, Flic-en-Flac",
+    "telephone": "+23054112233"
+  },
+  {
+    "id": 2,
+    "name": "Mary Smith",
+    "email": "mary.smith@example.com",
+    "dob": "1985-09-20",
+    "address": "45 Palm Avenue, Quatre Bornes",
+    "telephone": "+23059001122"
+  },
+  {
+    "id": 3,
+    "name": "Kevin Chan",
+    "email": "kevin.chan@example.com",
+    "dob": "1993-06-07",
+    "address": "21 River Road, Curepipe",
+    "telephone": "+23058587766"
+  }
+]
